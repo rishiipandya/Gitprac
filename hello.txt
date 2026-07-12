@@ -1,4 +1,3 @@
 hello
 My name is Rishi
-This is feat1
-this is feat3 
+hello from feat2
